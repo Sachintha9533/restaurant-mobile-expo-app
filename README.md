@@ -20,7 +20,7 @@ Welcome to my Restaurant Mobile App repository! This app is built using Expo, al
 To get a local copy of this project up and running, follow these simple steps:
 
 1. **Clone the Repository**: 
-git clone https://github.com/your-username/restaurant-mobile-app.git
+git clone https://github.com/Sachintha9533/restaurant-mobile-expo-app-.git
 
 2. **Navigate to the Project Directory**: 
 cd restaurant-mobile-app
